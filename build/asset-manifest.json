@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.291ed453.css",
+    "main.js": "/react-portfolio-website/static/js/main.b721eaaf.js",
+    "static/media/Responsive admin dash.jpg": "/react-portfolio-website/static/media/Responsive admin dash.4a109d1780e036dab669.jpg",
+    "static/media/skysurf website.jpg": "/react-portfolio-website/static/media/skysurf website.934f02cf42b8da34f084.jpg",
+    "static/media/item-4.jpg": "/react-portfolio-website/static/media/item-4.cd397c9238cbc4fd30ec.jpg",
+    "static/media/client-4.jpg": "/react-portfolio-website/static/media/client-4.5b157fb722340e6e4573.jpg",
+    "static/media/client-3.png": "/react-portfolio-website/static/media/client-3.1fa8e20c93656051fe85.png",
+    "static/media/client-2.png": "/react-portfolio-website/static/media/client-2.a6e289834de99274de08.png",
+    "static/media/item-7.jpg": "/react-portfolio-website/static/media/item-7.0447b6cdd31e423b0e82.jpg",
+    "static/media/client-1.jpg": "/react-portfolio-website/static/media/client-1.ed5d63107aa61b37a5d4.jpg",
+    "static/media/Jay2.jpg": "/react-portfolio-website/static/media/Jay2.3041242d823080554fd0.jpg",
+    "static/media/item-6.jpg": "/react-portfolio-website/static/media/item-6.72e32ddf241230a0a31b.jpg",
+    "static/media/JAY.jpg": "/react-portfolio-website/static/media/JAY.a7e81dfc4157ecf8ee4d.jpg",
+    "static/media/item-8.jpg": "/react-portfolio-website/static/media/item-8.57d5cd88ea0ab1e99f91.jpg",
+    "static/media/moby slick upgrade.jpg": "/react-portfolio-website/static/media/moby slick upgrade.f4f1f14aa350f563f259.jpg",
+    "static/media/CV.docx": "/react-portfolio-website/static/media/CV.1a3519e2842a7ac5615a.docx",
+    "static/media/item-5.jpg": "/react-portfolio-website/static/media/item-5.53134ad8490f5080d3a4.jpg",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.291ed453.css.map": "/react-portfolio-website/static/css/main.291ed453.css.map",
+    "main.b721eaaf.js.map": "/react-portfolio-website/static/js/main.b721eaaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291ed453.css",
+    "static/js/main.b721eaaf.js"
+  ]
+}
